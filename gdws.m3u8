@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:29393
+#EXT-X-TARGETDURATION:6
+#EXTINF:6.000,
+https://wslizhi.gdtv.cn/live/wslive.gdtv.cn_gdws-1707558010899.ts?auth_key=1707559848-0-0-eb295daeebf923154ed2966842b93e72
+#EXTINF:6.000,
+https://wslizhi.gdtv.cn/live/wslive.gdtv.cn_gdws-1707558017114.ts?auth_key=1707559848-0-0-2ce41862b72075ec72a764d332beafed
+#EXTINF:6.000,
+https://wslizhi.gdtv.cn/live/wslive.gdtv.cn_gdws-1707558023285.ts?auth_key=1707559848-0-0-8f1f346e846e52d4146079a5420010a1
+#EXTINF:6.000,
+https://wslizhi.gdtv.cn/live/wslive.gdtv.cn_gdws-1707558028917.ts?auth_key=1707559848-0-0-d6f3e7f2b2bcfbb5e4ac50a8e525fac1
+#EXTINF:6.000,
+https://wslizhi.gdtv.cn/live/wslive.gdtv.cn_gdws-1707558035305.ts?auth_key=1707559848-0-0-a069e32887e6032ee5835c99f8ab4c36
+#EXTINF:6.000,
+https://wslizhi.gdtv.cn/live/wslive.gdtv.cn_gdws-1707558040989.ts?auth_key=1707559848-0-0-0317ff77626ac777221861c5299f317e
